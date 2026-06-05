@@ -35,7 +35,7 @@ This project analyzes sales, profit, products, shipments, salespersons, and geog
 
 ## Dashboard Preview
 
-![Dashboard overview](dashboard-overview(2).png)
+![Dashboard overview](pbi_dashboard-overview.png)
 
 ## Key Insights
 
